@@ -1,7 +1,5 @@
 # Sudoku Generator
 
-This is a simple project I'm trying to make, the main goal is for me to learn more about functional programming. It will programmed in `Haskell` for the moment I don't know anything about this language, but I learn many recommendation hence why I'm giving it a shot.
-
 ## Functionality
 
 The funcitonalities are quite simple, you intput the dimmensions of the grid you want and then the program generate it before your eyes.
